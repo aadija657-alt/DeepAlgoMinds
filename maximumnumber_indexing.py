@@ -3,3 +3,4 @@ max_val=max(arr)
 print(max_val)
 index_of_max=arr.index(max_val)
 print(index_of_max)
+    
